@@ -1,0 +1,7 @@
+font-family: PTSans-Regular;
+
+
+coloar
+dark  - #010101
+auss  - #898989
+yellow - #fcdb00
